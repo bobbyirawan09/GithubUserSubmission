@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Github User Search</string>
+    <string name="repositories">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="github_detail_user_title">Informasi Pengguna</string>
+    <string name="github_users_title">Github User\'s</string>
+    <string name="username_title">Nama pengguna</string>
+    <string name="no_available_information">Informasi tidak tersedia</string>
+
+    <plurals name="tab_follower_text" tools:ignore="UnusedQuantity">
+        <item quantity="one" tools:ignore="UnusedQuantity">Pengikut</item>
+        <item quantity="other" tools:ignore="UnusedQuantity">Pengikut</item>
+    </plurals>
+    <string name="tab_following_text">Mengikuti</string>
+
+    <string name="error_message_load_follower">Kesalahan terjadi ketika mengambil data pengikut dikarenakan : %s</string>
+    <string name="error_message_load_following">Kesalahan terjadi ketika mengambil data mengikuti dikarenakan : %s</string>
+    <string name="error_message_load_detail_user">Kesalahan terjadi ketika mengambil data detil pengguna dikarenakan : %s</string>
+    <string name="error_message_load_user">Kesalahan terjadi ketika mengambil data pengguna dikarenakan : %s</string>
+    <string name="error_message_load_user_favorite">Kesalahan terjadi ketika mengambil data favorit dikarenakan : %s</string>
+    <string name="tooltip_search">Ketik nama pengguna di kotak pencarian untuk memulai mencari pengguna</string>
+    <string name="change_language_settings">Ganti pengaturan bahasa</string>
+    <string name="change_alarm_settings">Ganti pengaturan alarm</string>
+    <string name="user_not_found">Pengguna tidak ditemukan</string>
+    <string name="following_data_not_found">Informasi data pengguna yang diikuti tidak tersedia</string>
+    <string name="follower_data_not_found">Informasi data pengguna yang mengikuti tidak tersedia</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="favorite_title">Favorit</string>
+    <string name="select_language_title">Pilih bahasa</string>
+    <string name="key_language">bahasa</string>
+    <string name="key_alarm">alarm</string>
+    <string name="select_language">Indonesia</string>
+    <string name="alarm_label">Pengingat pada jam 9:00 AM</string>
+    <string name="success_delete_data">Data berhasil dihapus</string>
+    <string name="set_alarm">Alarm berhasil diatur</string>
+    <string name="cancel_alarm">Alarm berhasil dibatalkan</string>
+    <string name="alarm_notification_title">Pengingat</string>
+    <string name="alarm_notification_message">Yuk cari pengguna populer di Github!</string>
+    <string name="result_not_found">Hasil untuk pencarian sesuai keyword anda tidak ditemukan</string>
+    <string name="favorite_not_found">Data pengguna favorit tidak ditemukan</string>
+    <string name="appwidget_text">PENGGUNA GITHUB FAVORIT</string>
+    <string name="widget_name_placeholder"><b>%s</b></string>
+    <string name="widget_username_placeholder">\n%s</string>
+</resources>

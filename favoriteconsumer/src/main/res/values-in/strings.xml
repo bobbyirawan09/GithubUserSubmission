@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumer Favorite</string>
+    <string name="favorite_not_found">Data pengguna favorit tidak ditemukan</string>
+    <string name="error_message_load_user_favorite">Kesalahan terjadi ketika mengambil data favorit dikarenakan : %s</string>
+    <string name="no_available_information">Informasi tidak tersedia</string>
+</resources>

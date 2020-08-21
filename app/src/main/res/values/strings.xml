@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="repositories">Repos</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="github_detail_user_title">Detail User</string>
+    <string name="github_users_title">Github User\'s</string>
+    <string name="username_title">Username</string>
+    <string name="no_available_information">No available information</string>
+
+    <plurals name="tab_follower_text">
+        <item quantity="zero">Follower</item>
+        <item quantity="one">Follower</item>
+        <item quantity="other">Followers</item>
+    </plurals>
+    <string name="tab_following_text">Following</string>
+
+    <string name="error_message_load_follower">Problem occurred when load follower data because of : %s</string>
+    <string name="error_message_load_following">Problem occurred when load following data because of : %s</string>
+    <string name="error_message_load_detail_user">Problem occurred when load user detail data because of : %s</string>
+    <string name="error_message_load_user">Problem occurred when load user data because of : %s</string>
+    <string name="error_message_load_user_favorite">Problem occurred when load data favorite because of : %s</string>
+    <string name="tooltip_search">Type username in search box to start searching</string>
+    <string name="change_language_settings">Change language settings</string>
+    <string name="change_alarm_settings">Change alarm settings</string>
+    <string name="user_not_found">User not found</string>
+    <string name="following_data_not_found">No available information for following data</string>
+    <string name="follower_data_not_found">No available information for follower data</string>
+    <string name="settings_title">Settings</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="select_language_title">Select language</string>
+    <string name="key_language">language</string>
+    <string name="key_alarm">alarm</string>
+    <string name="select_language">English</string>
+    <string name="alarm_label">Reminder at 9:00 AM</string>
+    <string name="success_delete_data">Data successfully deleted</string>
+    <string name="set_alarm">Alarm successfully set</string>
+    <string name="cancel_alarm">Alarm successfully canceled</string>
+    <string name="alarm_notification_title">Reminder</string>
+    <string name="alarm_notification_message">Let\'s find popular user on Github!</string>
+    <string name="result_not_found">Result with your keyword not found</string>
+    <string name="favorite_not_found">Data user favorite not available</string>
+    <string name="appwidget_text">FAVORITE GITHUB USER</string>
+    <string name="widget_name_placeholder"><b>%s</b></string>
+    <string name="widget_username_placeholder">\n%s</string>
+</resources>
